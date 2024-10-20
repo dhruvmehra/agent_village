@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+llama-index==0.11.18
+openai
+python-dotenv
+requests
+beautifulsoup4
+pytest
+pydantic
+nltk
+certifi
